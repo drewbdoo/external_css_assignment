@@ -1,0 +1,51 @@
+.nav {
+    font-family: serif;
+    display: flex;
+    background-color: black;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#cfh {
+    background-color: purple;
+    font-size: 400%;
+    justify-content: left;
+    padding: 10px;
+}
+
+#search {
+    width: 20px;
+
+}
+
+#cart {
+    width: 40px;
+}
+
+.input {
+    display: flex;
+    align-content: flex-end;
+
+}
+
+.login {
+    padding-right: 5%;
+}
+
+.ul
+{
+    display: flex;
+
+    
+}
+
+li {
+    list-style-type: none;
+    padding: 20px;
+    
+}
+
+body {
+    margin: 0;
+}
